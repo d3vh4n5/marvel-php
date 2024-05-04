@@ -4,7 +4,8 @@
  * php -S localhost:8000
  */
 
-require_once 'controllers/movies.php';
+// require_once 'controllers/movies.php';
+require_once 'utils/router.php';
 
 // header('location: controllers/movies.php');
 // exit();

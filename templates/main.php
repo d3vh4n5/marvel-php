@@ -10,4 +10,5 @@
             La siguiente película será: <b><?= $following_production['title'] ?></b>
         </p>
     </hgroup>
+    <!-- <button>Suscribirse a un aviso automático</button> -->
 </main>
