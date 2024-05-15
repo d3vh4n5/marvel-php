@@ -1,3 +1,5 @@
+#Esto funciono en b4a
+
 # Utilizamos la imagen oficial de PHP 8.1
 FROM php:8.1-apache
 
