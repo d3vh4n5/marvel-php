@@ -6,6 +6,7 @@
 
 // require_once 'controllers/movies.php';
 require_once 'utils/router.php';
+echo "Test msj";
 
 // header('location: controllers/movies.php');
 // exit();
